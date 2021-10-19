@@ -3,6 +3,9 @@ movies_metadata.csv
 ratings.csv
 wikipedia-movies.json
 
+#Adding config.py file
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
