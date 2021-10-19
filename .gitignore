@@ -1,7 +1,6 @@
-#Adding data files 
-movies_metadata.csv
+#Adding data file
 ratings.csv
-wikipedia-movies.json
+
 
 #Adding config.py file
 config.py
